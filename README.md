@@ -2,7 +2,7 @@
 A python script that takes model from a json file and generates a CSV using faker library in python
 
 ## Instalation
-install requirements.txt
+install faker using pip install faker (pip3 for linux)
 
 ## How to Use
 1. Enter the model definition fo the csv file in modelDef.json file in the same directory
