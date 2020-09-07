@@ -1,0 +1,11 @@
+[{
+  "name": "loan_id",
+  "type": "name",
+  "unique": "",
+  "defaultValue":null
+},
+{
+  "name": "id",
+  "type": "username",
+  "unique": true
+}]
